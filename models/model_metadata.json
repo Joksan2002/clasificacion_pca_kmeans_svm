@@ -1,0 +1,6 @@
+{
+    "n_components_pca": 35,
+    "varianza_explicada": 0.7646482745251643,
+    "accuracy_score_svm": 0.9705,
+    "n_clusters_kmeans": 10
+}
